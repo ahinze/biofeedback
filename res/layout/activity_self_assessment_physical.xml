@@ -42,16 +42,24 @@
             android:id="@+id/textPhysicalText"
             android:text="@string/physical_question_1"/>
 
+    <nz.ac.waikato.isdb.ui.LikertScale
+        android:id="@+id/likertPhysical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" />
 
+    <!--
     <ListView
             android:id="@+id/_list"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:clickable="true"
             android:choiceMode="singleChoice"
-            >
-
-    </ListView>
+            />
+            -->
 
 
 </LinearLayout>
