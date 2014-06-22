@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">BioFeedBack</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Main -->
+    <string name="welcome_welcome">Welcome</string>
+    <string name="welcome_text">For the most personalised experience, take some time to answer a few configuration questions in the self assessment </string>
+    <string name="welcome_text_part2">.. or just get going with some exercises.</string>
+
+    <string name="welcome_welcome_middle">Welcome back</string>
+    <string name="welcome_text_middle">Why don\'t you take some time and answer more configuration questions. It will give a more personalised experience</string>
+    <string name="welcome_text_part2_middle">.. you can always go directly to the exercises.</string>
+
+    <string name="welcome_welcome_top">Welcome, NAME</string>
+    <string name="welcome_text_top">You can adjust your configuration here </string>
+    <string name="welcome_text_part2_top">.. or do some recommended exercises.</string>
+
+    <!-- assessment -->
+    <string name="physical_subheading">Physical</string>
+    <string name="intellectual_subheading">Intellectual</string>
+    <string name="social_subheading">Social</string>
+    <string name="individual_subheading">Individual</string>
+    <string name="physical_question_1"><b>Appearance:</b>  How do you feel about how you look? Is this your strong suit, something you care about and spend energy on looking nice?</string>
+    <!-- other -->
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_doing">Exercises &amp; Information</string>
+    <string name="title_activity_self_assessment">Self Assessment</string>
+    <string name="title_activity_breathing_rate">Breathing Rate</string>
+    <string name="title_activity_breathing_instructions">Breathing Instructions</string>
+    <string name="title_activity_breathing_measure">Breathing Measure</string>
+    <string name="title_activity_breathing_learn">Breathing Learn</string>
+    <string name="title_activity_heart_rate">Heart Rate</string>
+    <string name="title_activity_skin_temperature">Skin Temperature</string>
+    <string name="title_activity_music">Music</string>
+    <string name="button_record">Record</string>
+    <string name="plusSymbol">+</string>
+    <string name="minusSymbol">-</string>
+    <string name="intervalLabel">Interval</string>
+    <string name="title_activity_other_functionality">OtherFunctionalityActivity</string>
+    <string name="assessment_heading">Your Resources and Strengths</string>
+    <string name="assessment_text">We all have different things going for us: areas in which we are strong, feel confident, and have the supports and skills we need.
+        This quiz is to help you to assess, and remember, what those areas are for you.
+    </string>
+    <string name="assessment_text_rate">For each of the following areas, rate yourself on a scale of 1 to 5.
+    </string>
+</resources>
