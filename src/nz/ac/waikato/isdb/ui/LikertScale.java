@@ -42,17 +42,52 @@ public class LikertScale extends LinearLayout implements View.OnClickListener {
 
         buttons = new ArrayList<ToggleButton>();
 
-        for (int i = 1; i <= 5; i++) {
-            String label = Integer.toString(i);
+        //--1--
+            String label = "";
             ToggleButton button = new ToggleButton(ctxt);
             button.setText(label);
             button.setTextOn(label);
             button.setTextOff(label);
-            button.setBackgroundResource(R.drawable.purple_likert_button);
+            button.setBackgroundResource(R.drawable.purple_likert_button_1);
             button.setOnClickListener(this);
             addView(button);
             buttons.add(button);
-        }
+        //--2--
+            button = new ToggleButton(ctxt);
+            button.setText(label);
+            button.setTextOn(label);
+            button.setTextOff(label);
+            button.setBackgroundResource(R.drawable.purple_likert_button_2);
+            button.setOnClickListener(this);
+            addView(button);
+            buttons.add(button);
+        //--3--
+            button = new ToggleButton(ctxt);
+            button.setTextOn(label);
+            button.setText(label);
+            button.setTextOff(label);
+            button.setBackgroundResource(R.drawable.purple_likert_button_3);
+            button.setOnClickListener(this);
+            addView(button);
+            buttons.add(button);
+        //--4--
+            button = new ToggleButton(ctxt);
+            button.setText(label);
+            button.setTextOn(label);
+            button.setTextOff(label);
+            button.setBackgroundResource(R.drawable.purple_likert_button_4);
+            button.setOnClickListener(this);
+            addView(button);
+            buttons.add(button);
+        //--5--
+            button = new ToggleButton(ctxt);
+            button.setText(label);
+            button.setTextOn(label);
+            button.setTextOff(label);
+            button.setBackgroundResource(R.drawable.purple_likert_button_5);
+            button.setOnClickListener(this);
+            addView(button);
+            buttons.add(button);
     }
 
     /**

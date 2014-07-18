@@ -31,7 +31,7 @@
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">#668F5E99</item>
-        <item name="android:textColor">#000000</item>
+        <item name="android:textColor">#ff5b3e63</item>
     </style>
 
     <!-- subheadings in purple. -->
@@ -45,7 +45,7 @@
 
     <!-- myButton shape -->
     <style name="myButton" parent="@android:style/TextAppearance.Medium">
-
+<item name="android:height">20dp</item>
      </style>
 
 </resources>

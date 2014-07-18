@@ -24,6 +24,9 @@
     <string name="social_subheading">Social</string>
     <string name="individual_subheading">Individual</string>
     <string name="physical_question_1"><b>Appearance:</b>  How do you feel about how you look? Is this your strong suit, something you care about and spend energy on looking nice?</string>
+    <string name="physical_question_2"><b>Health:</b>  How is your overall health—are you generally sick, or healthy?  Most of the time (irrespective of whether you’ve got a cold right now, or any minor pregnancy woes), do you consider yourself to be in good health?</string>
+    <string name="physical_question_3"><b>Motor skills/coordination:</b> Are you the sort of person who can pick up a new sport quickly?  Dance? Feel confident about how you move and do things, physically?</string>
+
     <!-- other -->
     <string name="title_activity_information">Information</string>
     <string name="title_activity_doing">Exercises &amp; Information</string>
